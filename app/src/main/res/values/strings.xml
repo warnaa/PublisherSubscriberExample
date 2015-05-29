@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Publisher Subscriber Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fetch_posts">Fetch posts</string>
+</resources>
