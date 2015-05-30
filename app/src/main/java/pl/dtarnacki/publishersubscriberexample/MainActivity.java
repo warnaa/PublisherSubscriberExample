@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().setSubtitle(R.string.actionbar_subtitle);
+
         // RecyclerView
         // see: https://developer.android.com/training/material/lists-cards.html
 
